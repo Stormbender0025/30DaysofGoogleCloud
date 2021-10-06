@@ -21,7 +21,7 @@
     - [x] Creating a Virtual Machine
     - [x] Getting Started with Cloud Shell and gcloud
     - [x] Kubernetes Engine: Qwik Start
-    - [ ] Set Up Network and HTTP Load Balancers
+    - [x] Set Up Network and HTTP Load Balancers
     - [ ] Create and Manage Cloud Resources: Challenge Lab
 - [ ] Perform Foundational Infrastructure Tasks in Google Cloud: [link](https://google.qwiklabs.com/quests/118)
     - [ ] Cloud Storage Qwik Start - Cloud Console
