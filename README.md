@@ -43,7 +43,7 @@
     - [x] Multiple VPC Networks
     - [x] Troubleshooting Workloads on GKE for Site Reliability Engineers
     - [x] Deploy and Manage Cloud Environments with Google Cloud: Challenge Lab
-- [ ] Build and Secure Networks in Google Cloud: [link](https://google.qwiklabs.com/quests/128)
+- [x] Build and Secure Networks in Google Cloud: [link](https://google.qwiklabs.com/quests/128)
     - [x] User Authentication: Identity-Aware Proxy
     - [x] Multiple VPC Networks
     - [x] VPC Networks - Controlling Access
