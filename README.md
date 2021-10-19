@@ -44,9 +44,9 @@
     - [x] Troubleshooting Workloads on GKE for Site Reliability Engineers
     - [x] Deploy and Manage Cloud Environments with Google Cloud: Challenge Lab
 - [ ] Build and Secure Networks in Google Cloud: [link](https://google.qwiklabs.com/quests/128)
-    - [ ] User Authentication: Identity-Aware Proxy
-    - [ ] Multiple VPC Networks
-    - [ ] VPC Networks - Controlling Access
+    - [x] User Authentication: Identity-Aware Proxy
+    - [x] Multiple VPC Networks
+    - [x] VPC Networks - Controlling Access
     - [ ] HTTP Load Balancer with Cloud Armor
     - [ ] Create an Internal Load Balancer
     - [ ] Build and Secure Networks in Google Cloud: Challenge Lab
