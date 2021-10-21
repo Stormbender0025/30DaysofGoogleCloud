@@ -76,13 +76,13 @@
     - [x] Google Cloud Speech API: Qwik Start
     - [x] Video Intelligence: Qwik Start
     - [x] Perform Foundational Data, ML and AI Tasks in Google Cloud: Challenge Lab
-- [ ] Insights from Data with BigQuery: [link](https://google.qwiklabs.com/quests/123)
-    - [ ] Introduction to SQL for BigQuery and Cloud SQL
-    - [ ] BigQuery: Qwik Start - Console
-    - [ ] Exploring Your Ecommerce Dataset with SQL in Google BigQuery
-    - [ ] Troubleshooting Common SQL Errors with BigQuery
-    - [ ] Explore and Create Reports with Data Studio
-    - [ ] Insights from Data with BigQuery: Challenge Lab
+- [x] Insights from Data with BigQuery: [link](https://google.qwiklabs.com/quests/123)
+    - [x] Introduction to SQL for BigQuery and Cloud SQL
+    - [x] BigQuery: Qwik Start - Console
+    - [x] Exploring Your Ecommerce Dataset with SQL in Google BigQuery
+    - [x] Troubleshooting Common SQL Errors with BigQuery
+    - [x] Explore and Create Reports with Data Studio
+    - [x] Insights from Data with BigQuery: Challenge Lab
 - [ ] Engineer data in Google Cloud: [link](https://google.qwiklabs.com/quests/132)
     - [ ] Creating a Data Transformation Pipeline with Cloud Dataprep
     - [ ] Building an IoT Analytics Pipeline on Google Cloud
